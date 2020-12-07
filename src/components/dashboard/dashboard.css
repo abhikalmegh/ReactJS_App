@@ -1,0 +1,36 @@
+.heading-title {
+    margin: 20px 0 20px 0;
+}
+.card-title{
+    font-weight: 600;
+}
+.cardStyle {
+    background-color: #fff;
+    padding: 10px;
+}
+.whitebg{
+    background-color: #fff;
+}
+.MB10{
+    margin-bottom: 10px;
+    border-bottom: 2px solid gray;
+    padding-bottom: 10px;
+}
+.cardSize{
+    width: 500px;
+}
+
+.floatR{
+    float: right;
+}
+
+.btn-circle {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    padding: 4px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+}

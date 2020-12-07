@@ -1,0 +1,178 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Laptops"
+    },
+    {
+      "id": 2,
+      "name": "Mobiles"
+    },
+    {
+      "id": 3,
+      "name": "Speakers"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "list": [
+        {
+          "id": 1,
+          "name": "Lenovo",
+          "imageUrl": "<dummyURL>",
+          "categoryId": 1
+        },
+        {
+          "id": 2,
+          "name": "Mac",
+          "imageUrl": "<dummyURL>",
+          "categoryId": 1
+        },
+        {
+          "id": 3,
+          "name": "Dell",
+          "imageUrl": "<dummyURL>",
+          "categoryId": 1
+        },
+        {
+          "id": 4,
+          "name": "Sony",
+          "imageUrl": "<dummyURL>",
+          "categoryId": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "list": [
+        {
+          "id": 5,
+          "name": "Motorola",
+          "imageUrl": "<dummyURL>",
+          "categoryId": 2
+        },
+        {
+          "id": 6,
+          "name": "Apple",
+          "imageUrl": "<dummyURL>",
+          "categoryId": 2
+        },
+        {
+          "id": 7,
+          "name": "Nokia",
+          "imageUrl": "<dummyURL>",
+          "categoryId": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "list": [
+        {
+          "id": 8,
+          "name": "boAt",
+          "imageUrl": "<dummyURL>",
+          "categoryId": 3
+        },
+        {
+          "id": 9,
+          "name": "Philips",
+          "imageUrl": "<dummyURL>",
+          "categoryId": 3
+        },
+        {
+          "id": 10,
+          "name": "Portronics ",
+          "imageUrl": "<dummyURL>",
+          "categoryId": 3
+        },
+        {
+          "id": 11,
+          "name": "JBL ",
+          "imageUrl": "<dummyURL>",
+          "categoryId": 3
+        }
+      ]
+    }
+  ],
+  "productDetails": [
+    {
+      "id": 1,
+      "name": "Lenovo",
+      "imageUrl": "<dummyURL>",
+      "description": "Dummy description",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Mac",
+      "imageUrl": "<dummyURL>",
+      "description": "Dummy description",
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "Dell",
+      "imageUrl": "<dummyURL>",
+      "description": "Dummy description",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "Sony",
+      "imageUrl": "<dummyURL>",
+      "description": "Dummy description",
+      "categoryId": 1
+    },
+    {
+      "id": 5,
+      "name": "Motorola",
+      "imageUrl": "<dummyURL>",
+      "description": "Dummy description",
+      "categoryId": 2
+    },
+    {
+      "id": 6,
+      "name": "Apple",
+      "imageUrl": "<dummyURL>",
+      "description": "Dummy description",
+      "categoryId": 2
+    },
+    {
+      "id": 7,
+      "name": "Nokia",
+      "imageUrl": "<dummyURL>",
+      "description": "Dummy description",
+      "categoryId": 2
+    },
+    {
+      "id": 8,
+      "name": "boAt",
+      "imageUrl": "<dummyURL>",
+      "description": "Dummy description",
+      "categoryId": 3
+    },
+    {
+      "id": 9,
+      "name": "Philips",
+      "imageUrl": "<dummyURL>",
+      "description": "Dummy description",
+      "categoryId": 3
+    },
+    {
+      "id": 10,
+      "name": "Portronics ",
+      "imageUrl": "<dummyURL>",
+      "description": "Dummy description",
+      "categoryId": 3
+    },
+    {
+      "id": 11,
+      "name": "JBL ",
+      "imageUrl": "<dummyURL>",
+      "description": "Dummy description",
+      "categoryId": 3
+    }
+  ]
+}
